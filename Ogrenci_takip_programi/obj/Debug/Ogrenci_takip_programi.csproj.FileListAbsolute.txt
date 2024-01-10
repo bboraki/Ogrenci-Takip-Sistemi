@@ -1,0 +1,13 @@
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\bin\Debug\Ogrenci_takip_programi.exe.config
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\bin\Debug\Ogrenci_takip_programi.exe
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\bin\Debug\Ogrenci_takip_programi.pdb
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.csproj.AssemblyReference.cache
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.Form1.resources
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.Form2.resources
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.Properties.Resources.resources
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.csproj.GenerateResource.cache
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.csproj.CoreCompileInputs.cache
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.exe
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.pdb
+C:\Users\Bora Kitirci\Desktop\BANÜ Yazılım\Banü Yazılım 2\Görsel Programlama 1\Ogrenci_takip_programi\Ogrenci_takip_programi\obj\Debug\Ogrenci_takip_programi.Form3.resources
